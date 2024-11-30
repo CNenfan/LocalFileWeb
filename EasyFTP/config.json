@@ -1,0 +1,10 @@
+{
+    "users": [
+        {
+            "username": "user",
+            "password": "12345",
+            "directory": "d:\\Users\\\u6069\u51e1\\Code\\LocalFileWeb\\EasyFTP\\ftpUpload",
+            "permissions": "elradfmwMT"
+        }
+    ]
+}
